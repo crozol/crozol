@@ -1,10 +1,11 @@
 ## Camilo Andrés Rozo Lozano
 
 Physicist and mathematician (Universidad Nacional de Colombia, B.Sc. Physics
-2024 + B.Sc. Mathematics 2025). ML Engineer at BS Energy And Automation,
-working on production machine learning for large-scale network optimisation.
-Research interests sit at the intersection of statistical mechanics,
-dynamical systems, and physics-informed machine learning.
+2024 + B.Sc. Mathematics 2025). About two years of applied ML experience at
+BS Energy and Automation, working on production ML pipelines for large-scale
+network optimisation. Research interests sit at the intersection of
+statistical mechanics, dynamical systems, and physics-informed machine
+learning.
 
 ### Selected projects
 
@@ -18,7 +19,7 @@ dynamical systems, and physics-informed machine learning.
 
 ### Links
 
-[Portfolio](https://crozol.github.io) · [LinkedIn](https://www.linkedin.com/in/camilo-a-rozo-l/)
+[Portfolio](https://crozol.github.io) · [LinkedIn](https://www.linkedin.com/in/camilo-a-rozo-l/) · [rozol.ca555@gmail.com](mailto:rozol.ca555@gmail.com)
 
 ### GitHub stats
 
