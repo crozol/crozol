@@ -13,7 +13,7 @@
 
 Physicist and mathematician (Universidad Nacional de Colombia, B.Sc. Physics 2024 + B.Sc. Mathematics 2025) researching complex systems, neural networks, and statistical mechanics, with applied machine learning experience translating theory into production systems.
 
-🔭 **Currently:** ICTP Postgraduate Diploma Programme — Quantitative Life Sciences. Building toward a PhD in theoretical machine learning.
+🔭 **Currently:** ICTP Postgraduate Diploma Programme — Quantitative Life Sciences.
 
 ### Stack
 
