@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c5cff,100:22d3ee&height=200&section=header&text=Camilo%20Rozo&fontSize=60&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=Physicist%20%26%20Mathematician%20%C2%B7%20Researcher%20in%20Complex%20Systems%20%26%20Applied%20ML&descAlignY=58&descSize=16&descColor=e7ecf5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c5cff,100:22d3ee&height=200&section=header&text=Camilo%20Rozo&fontSize=60&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=Physicist%20and%20Mathematician%20%C2%B7%20Researcher%20in%20Complex%20Systems%20and%20Applied%20ML&descAlignY=58&descSize=16&descColor=e7ecf5" width="100%"/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-crozol.github.io-7c5cff?style=for-the-badge)](https://crozol.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-camilo--a--rozo--l-22d3ee?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilo-a-rozo-l/)
