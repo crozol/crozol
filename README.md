@@ -39,9 +39,10 @@ Physicist and mathematician (Universidad Nacional de Colombia, B.Sc. Physics 202
 
 ### Selected projects
 
-- **[Bayesian inference on the 2D Ising model](https://github.com/crozol/01-ising-bayesian)** — Metropolis-Hastings sampling of the 2D Ising lattice combined with PyMC posterior inference of the critical temperature `Tc` and exponent `β`, validated against the exact Onsager (1944) solution.
-- **[Neural ODEs for dynamical systems](https://github.com/crozol/02-neural-odes)** — Learning the right-hand side of pendulum and Lotka-Volterra dynamics from short noisy trajectories. A Hamiltonian Neural Network ablation contrasts unconstrained learning against a physics-informed prior.
+- **[Bayesian inference on the 2D Ising model](https://github.com/crozol/01-ising-bayesian)** — Metropolis Monte Carlo of the 2D Ising lattice and Bayesian inference of its critical point. A power-law fit to a single lattice cannot pin the exponent; a finite-size-scaling fit of the Binder cumulant across four lattice sizes recovers `Tc`, `ν` and `β` with Onsager's exact values inside the 95% intervals.
+- **[Neural ODEs for dynamical systems](https://github.com/crozol/02-neural-odes)** — Learning the right-hand side of pendulum and Lotka-Volterra dynamics from short noisy trajectories. A controlled ablation (5 seeds, with a coordinate control) shows when a Hamiltonian prior helps: on orbits the model never saw, once it is trained on more than one.
 - **[Anomaly Detection API](https://github.com/crozol/03-anomaly-detection-api)** — LSTM autoencoder for multivariate sensor streams (NASA CMAPSS turbofan dataset), wrapped in a typed FastAPI service and a Streamlit demo, packaged in a multi-stage Docker stack. [Live demo on Hugging Face Spaces ↗](https://huggingface.co/spaces/crozol/cmapss-anomaly-detector)
+- **[Physics-informed neural networks](https://github.com/crozol/04-pinns)** — PINNs for the heat and viscous Burgers equations, validated against exact solutions, with the error resolved in time, a boundary-weight sensitivity study and a reproduction of the original paper's Burgers recipe.
 
 ---
 
