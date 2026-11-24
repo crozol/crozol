@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c5cff,100:22d3ee&height=160&section=header&text=Camilo%20Rozo&fontSize=56&fontAlignY=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Physicist+and+Mathematician;Researcher+in+Complex+Systems+and+Statistical+Mechanics;Applied+Machine+Learning;ICTP+Postgraduate+Diploma+--+Quantitative+Life+Sciences" alt="rotating role tagline" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Physicist+and+Mathematician;Statistical+Physics+%C2%B7+Complex+Networks+%C2%B7+Machine+Learning;ICTP+Postgraduate+Diploma+--+Quantitative+Life+Sciences" alt="rotating role tagline" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-crozol.github.io-7c5cff?style=for-the-badge)](https://crozol.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-camilo--a--rozo--l-22d3ee?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilo-a-rozo-l/)
@@ -15,7 +15,7 @@
 
 ### About
 
-Physicist and mathematician (Universidad Nacional de Colombia, B.Sc. Physics 2024 + B.Sc. Mathematics 2025) researching complex systems, neural networks, and statistical mechanics, with applied machine learning experience translating theory into production systems.
+Physicist and mathematician (Universidad Nacional de Colombia, B.Sc. Physics 2024 + B.Sc. Mathematics 2025) working on statistical physics, complex networks and machine learning, with applied machine learning experience translating theory into production systems.
 
 🔭 **Currently:** ICTP Postgraduate Diploma Programme — Quantitative Life Sciences.
 
